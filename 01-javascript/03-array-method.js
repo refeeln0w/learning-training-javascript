@@ -23,4 +23,4 @@ const result = products.filter(product => product.inStock && product.price > 100
     .map(product =>
         product.name
     )
-// console.log(result);
+// console.log(result);  
